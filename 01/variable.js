@@ -12,3 +12,7 @@ if(isLogIn){
 else{
     console.log(errorMsg);
 }
+
+var logCount=30;
+
+console.log(logCount);
