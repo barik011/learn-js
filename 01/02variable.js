@@ -14,3 +14,12 @@ console.log("Email Id: ",email);
 console.log("Password: ",passowrd);
 console.log("Course Count: ",courseCount);
 console.log("Log In Status: ",isLoogedIn);
+
+console.log(`
+    Full Name: ${fullName}
+    Email ID: ${email}
+    Password: ${passowrd}
+    Course Count: ${courseCount}
+    Log In Status: ${isLoogedIn}
+
+`);
