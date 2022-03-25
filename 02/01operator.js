@@ -12,4 +12,4 @@ console.log("Multiplication of num1 * num2 :", num1 * num2);
 
 var result = num2 > num1;
 
-console.log("num2 is greater then num1:  ", num1 * num2);
+console.log("num2 is greater then num1:  ", result);
