@@ -1,7 +1,7 @@
 console.log("Operator Classess")
 
 var num1=10;
-var nam2=20;
+var num2=20;
 
 
 console.log("Addition of num1 + num2 :", num1 + num2);
