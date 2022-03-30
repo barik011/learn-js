@@ -1,0 +1,8 @@
+var listPrice =599;
+var sellPrice =490;
+var discountPrice = ((listPrice-sellPrice)/listPrice)*100;
+
+console.log("Without Round Figure: "+ discountPrice);
+
+console.log("In Round Figure: "+ Math.round(discountPrice)+ "% off");
+
