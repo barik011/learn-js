@@ -1,4 +1,5 @@
 // undefine
+//null
 // NaN
 // ""
 // 0
@@ -18,3 +19,7 @@ if(b==="2"){
 else{
     console.log("Value and Type Not Matched")
 }
+
+console.log(2+"2");
+console.log("2"+2);
+console.log("2"+"2");
