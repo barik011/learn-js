@@ -1,13 +1,15 @@
 //Global Context
 //Excution Context
+console.log(`${name}`);
+var name = "barique";
 
+function sayName(){
+    var name ="M B";
 
+    console.log(name);
+}
 
-console.log(name);
-var name = "barique"
-
-
-
+sayName();
 
 function electricBill(amount){
 
