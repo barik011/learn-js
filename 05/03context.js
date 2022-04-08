@@ -1,5 +1,7 @@
 //Global Context
 //Excution Context
+
+// var name = "barique";
 console.log(`${name}`);
 var name = "barique";
 
