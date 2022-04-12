@@ -22,3 +22,5 @@ console.log(user);
 
 user.shift();//Delete first position (in 0 index)of Array
 console.log(user);
+
+console.log(user.indexOf(3));
