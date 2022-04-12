@@ -19,3 +19,6 @@ console.log(user);
 
 user.unshift("Unique Id");//Add New element at first position (in 0 index)of Array
 console.log(user);
+
+user.shift();//Delete first position (in 0 index)of Array
+console.log(user);
