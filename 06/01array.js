@@ -21,6 +21,12 @@ user.unshift("Unique Id");//Add New element at first position (in 0 index)of Arr
 console.log(user);
 
 user.shift();//Delete first position (in 0 index)of Array
+
 console.log(user);
 
-console.log(user.indexOf(3));
+console.log(user.indexOf("barik011@gmail.com"));//Show your array item index
+
+console.log(Array.from("Barique"));
+
+console.log(user);
+
