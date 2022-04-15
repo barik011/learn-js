@@ -15,10 +15,14 @@ var isEven = (element) =>{
 
 // var result=[2,3,8,10].every(isEven);
 
-// console.log(result);
+// console.log("Old Code: ",result);
 
-var result=[2,4,8,10].every((e)=>{
-    return e%2===0;
-});
+// var result=[2,4,8,10].every((e)=>{
+//     return e%2===0;
+// });
 
-console.log(result);
+// console.log("Moderate Code: ",result);
+
+var result=[2,4,8,10].every((e)=> (e%2===0));
+
+console.log("Modern Code: ",result);
