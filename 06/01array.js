@@ -10,7 +10,6 @@ country[2]="Bhootan";
 
 //console.log(country[2]);
 
-
 var user= ["Barique","barik011@gmail.com",37,true];
 
 console.log(user);
